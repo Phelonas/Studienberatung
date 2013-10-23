@@ -8,6 +8,9 @@ System.out.println ("Hast du Abitur?")
 
 String antwort1 = scanner.next();
 
+System.out.println("Hast du Fachabitur?")
+
+Stringt antwort2= scanner.next();
 
 }
 
